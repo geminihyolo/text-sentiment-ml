@@ -1,0 +1,7 @@
+text,label
+"This product is amazing!",positive
+"I hated the service.",negative
+"Not bad, just okay.",neutral
+"Excellent quality and support.",positive
+"Terrible experience. Will not return.",negative
+"It was okay, nothing special.",neutral
