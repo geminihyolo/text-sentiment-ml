@@ -1,2 +1,12 @@
-# text-sentiment-ml
-Sentiment analysis project using Python, scikit-learn, and NLP techniques to classify user reviews into positive, negative, or neutral categories. Includes text preprocessing, feature extraction with TF-IDF, model training using Naive Bayes, and evaluation with accuracy and confusion matrix.
+# Sentiment Analysis Project 🧠
+
+This project uses Python, scikit-learn, and NLP techniques to classify user reviews as positive, negative, or neutral.
+
+## Features
+- Text preprocessing with TF-IDF
+- Model training using Naive Bayes
+- Evaluation with accuracy score and confusion matrix
+
+## How to Run
+```bash
+python src/train_model.py
